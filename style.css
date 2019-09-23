@@ -78,24 +78,11 @@ label {
     margin-bottom: 10px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 textarea {
   border-color: red;
   border-width: 5px;
 }
 
-textarea:hover {
+textarea:focus {
   border-color: green;
 }
